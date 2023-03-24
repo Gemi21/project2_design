@@ -1,0 +1,64 @@
+
+.head .bg .overlay .content .title-head {
+    margin-bottom: 18px;
+}
+.head .bg .overlay .content .title-head h1 {
+    font-size:60px;
+    font-family: title;
+    color: white;
+}
+
+.head .bg .overlay .content .boxes .box {
+    background-color:#e74c3c;
+    font-size: 25px;
+    width: 120px;
+    height: 104px;
+    padding: 20px 40px ;
+    position: relative;
+}
+.head .bg .overlay .content .boxes .box span.word {
+    font-size:25px;
+    position: absolute;
+left: 10px;
+}
+.navbar .container .content .logo {
+    font-size: 25px;
+    font-family: bold;
+    color: white;
+}
+
+.navbar .container .content .sections ul li {
+
+display: inline-block;
+  color:#2c3e50;
+  font-size: 19px;
+  padding-right: 8px;
+  transition: all 0.35s linear;
+}
+
+.navbar .container .content .sections ul li a {
+   
+    justify-content: center;
+    align-items: center;
+       gap: 20;
+
+}
+.navbar .container .content .sections ul li a:hover {
+    background-color: #f9f9f9;
+    color: #2c3e50;
+}
+
+.navbar .container .content .sections ul li a{
+    font-size: 15px;
+    color: white;
+}
+.navbar .container .content .btn {
+    background-color: #e74c3c;
+    padding: 14px 20px;
+    border-radius: 6px;
+    transition: all 0.3s;
+}
+.navbar .container .content .btn:hover {
+    background-color: #f9f9f9;
+    color: #e74c3c;
+}
